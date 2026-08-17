@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "A. func",
+            "B. def",
+            "C. function",
+            "D. define"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which data type stores True or False?",
+        "options": [
+            "A. int",
+            "B. str",
+            "C. bool",
+            "D. float"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which symbol is used for a comment in Python?",
+        "options": [
+            "A. //",
+            "B. <!-- -->",
+            "C. #",
+            "D. **"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which loop is commonly used to iterate over a sequence?",
+        "options": [
+            "A. for",
+            "B. switch",
+            "C. repeat",
+            "D. select"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which method adds an item to the end of a list?",
+        "options": [
+            "A. add()",
+            "B. append()",
+            "C. insertEnd()",
+            "D. push()"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does len() return?",
+        "options": [
+            "A. The data type",
+            "B. The largest value",
+            "C. The number of items",
+            "D. The memory address"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which operator is used for exponentiation?",
+        "options": [
+            "A. ^",
+            "B. //",
+            "C. **",
+            "D. ^^"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which collection stores key-value pairs?",
+        "options": [
+            "A. List",
+            "B. Tuple",
+            "C. Set",
+            "D. Dictionary"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the output of 10 // 3?",
+        "options": [
+            "A. 3",
+            "B. 3.33",
+            "C. 1",
+            "D. 4"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which function is used to get input from the user?",
+        "options": [
+            "A. scan()",
+            "B. read()",
+            "C. input()",
+            "D. get()"
+        ],
+        "answer": "C"
+    }
+]
