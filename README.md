@@ -39,7 +39,4 @@ Runs a command-line Python quiz. Questions are stored in JSON, randomized,
 answered interactively, and scored at the end. The question file is created
 automatically on first run.
 
-## Internship submission
-The internship document says interns must select and complete at least three
-Python Developer tasks and submit a video demo/link as part of the submission
-process. Keep these projects as separate files for demonstration.
+
